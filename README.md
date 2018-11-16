@@ -1,5 +1,5 @@
 ---
-description: "This guide is a collection of best practices for building a home theater. Be sure to read carefully, especially the disclaimer page \uD83E\uDDD0."
+description: "This guide is a collection of best practices for building a home theater. Be sure to read the disclaimer page \uD83E\uDDD0."
 ---
 
 # Welcome
